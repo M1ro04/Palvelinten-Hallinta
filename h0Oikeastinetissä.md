@@ -7,7 +7,7 @@ __Niemi 2025: H4 Tehtävät__
 
 -Oma kysymys: Miten palvelimen lokeista voidaan erottaa tavalliset yhteysyritykset mahdollisista tietoturvauhista?
 
-Partanen 2025: Harjoitus 5 – a) Nimi#
+__Partanen 2025: Harjoitus 5 – a) Nimi__
 
 -Verkkotunnuksen avulla verkkopalveluun pääsee helposti muistettavalla nimellä IP-osoitteen sijasta.
 
@@ -19,7 +19,7 @@ Partanen 2025: Harjoitus 5 – a) Nimi#
 
 
 
-a)
+__a)__
 
 -aloitin tehtävän ensimmäisellä tunnilla tekemällä käyttäjän upcloudiin ja vuokraamalla sieltä palvelimen.
 
@@ -28,13 +28,13 @@ a)
 
 
 
-b)
+__b)__
 
 vuokrasin uplcoudin kautta virtuaalisen yksityispalvelimen (VPS) <img width="1468" height="823" alt="Screenshot 2026-10-26 at 18 07 47" src="https://github.com/user-attachments/assets/2852d0e6-9488-49d9-ab40-0ee15cb5a95f" />
 
 
 
-c) 
+__c)__ 
 
 -Tehtävänä oli tehdä virtuaalipalvelimelle alkutoimet.
 
@@ -54,7 +54,7 @@ c)
 
 
 
-d) tehtävässä piti asentaa Webbipalvelin ja valitsin apachen, tämän asensin komennolla: sudo apt install apache2. <img width="2748" height="814" alt="image" src="https://github.com/user-attachments/assets/06cae0f1-58d3-466d-8dae-5444ee8e63a5" /> 
+__d)__ tehtävässä piti asentaa Webbipalvelin ja valitsin apachen, tämän asensin komennolla: sudo apt install apache2. <img width="2748" height="814" alt="image" src="https://github.com/user-attachments/assets/06cae0f1-58d3-466d-8dae-5444ee8e63a5" /> 
 
 -tämän jälkeen asennus kysyy vahvistusta, joten painoin yes.
 
