@@ -1,4 +1,14 @@
 x) 
+Niemi 2025: H4 Tehtävät
+-Virtuaalipalvelin vuokrataan palveluntarjoajalta, minkä jälkeen sille asennetaan käyttöjärjestelmä ja tehdään tarvittavat alkutoimet.
+-Oma huomio: Virtuaalipalvelimen käyttöönotto vaatii useita vaiheita, mutta komentorivillä tehtävät ylläpitotoimet ovat melko suoraviivaisia, kun komennot ovat tuttuja.
+-Oma kysymys: Miten palvelimen lokeista voidaan erottaa tavalliset yhteysyritykset mahdollisista tietoturvauhista?
+
+Partanen 2025: Harjoitus 5 – a) Nimi
+-Verkkotunnuksen avulla verkkopalveluun pääsee helposti muistettavalla nimellä IP-osoitteen sijasta.
+-Verkkotunnuksen ja palvelimen IP-osoitteen yhdistäminen helpottaa verkkopalvelun käyttöä ja mahdollistaa oman verkkosivun julkaisemisen omalla nimellä.
+-Oma huomio: Verkkotunnus tekee verkkosivusta helpommin löydettävän, mutta sen toiminta riippuu oikein määritetyistä DNS-tietueista.
+-Oma kysymys: Kuinka kauan DNS-tietueen muuttamisen jälkeen voi kestää, ennen kuin uusi IP-osoite toimii kaikkialla?
 
 
 a) aloitin tehtävän ensimmäisellä tunnilla tekemällä käyttäjän upcloudiin ja vuokraamalla sieltä palvelimen, palvelimen kautta asensin koneelleni Debian 13. ja käynnistin sen MACOS terminaalissa.  <img width="854" height="132" alt="Screenshot 2026-10-26 at 17 55 00" src="https://github.com/user-attachments/assets/9786d5c4-1351-4c7c-9f3e-a95c391210a7" />
