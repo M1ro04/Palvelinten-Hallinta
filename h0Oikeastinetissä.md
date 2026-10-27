@@ -1,5 +1,6 @@
 x) 
 Niemi 2025: H4 Tehtävät
+
 -Virtuaalipalvelin vuokrataan palveluntarjoajalta, minkä jälkeen sille asennetaan käyttöjärjestelmä ja tehdään tarvittavat alkutoimet.
 
 -Oma huomio: Virtuaalipalvelimen käyttöönotto vaatii useita vaiheita, mutta komentorivillä tehtävät ylläpitotoimet ovat melko suoraviivaisia, kun komennot ovat tuttuja.
@@ -7,6 +8,7 @@ Niemi 2025: H4 Tehtävät
 -Oma kysymys: Miten palvelimen lokeista voidaan erottaa tavalliset yhteysyritykset mahdollisista tietoturvauhista?
 
 Partanen 2025: Harjoitus 5 – a) Nimi
+
 -Verkkotunnuksen avulla verkkopalveluun pääsee helposti muistettavalla nimellä IP-osoitteen sijasta.
 
 -Verkkotunnuksen ja palvelimen IP-osoitteen yhdistäminen helpottaa verkkopalvelun käyttöä ja mahdollistaa oman verkkosivun julkaisemisen omalla nimellä.
