@@ -39,7 +39,7 @@ __c)__
 
 - Tehtävänä oli tehdä virtuaalipalvelimelle alkutoimet.
 
-- Aloitin tekemällä käyttäjän omalla nimelläni. Tein sen komennolla *adduser miro*.
+- Aloitin tekemällä käyttäjän omalla nimelläni. Tein sen komennolla adduser miro.
 
 - Tämän jälkeen lisäsin sen sudo-ryhmään. <img width="1704" height="282" alt="image" src="https://github.com/user-attachments/assets/50f9e955-e9f8-4490-ad64-ae1b1d26fa50" /> 
 
