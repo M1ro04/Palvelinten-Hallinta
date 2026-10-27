@@ -25,7 +25,9 @@ a)
 -palvelimen kautta asensin koneelleni Debian 13. ja käynnistin sen MACOS terminaalissa. 
 <img width="854" height="132" alt="Screenshot 2026-10-26 at 17 55 00" src="https://github.com/user-attachments/assets/9786d5c4-1351-4c7c-9f3e-a95c391210a7" />
 
+
 b) vuokrasin uplcoudin kautta virtuaalisen yksityispalvelimen (VPS) <img width="1468" height="823" alt="Screenshot 2026-10-26 at 18 07 47" src="https://github.com/user-attachments/assets/2852d0e6-9488-49d9-ab40-0ee15cb5a95f" />
+
 
 c) 
 
@@ -44,6 +46,7 @@ c)
 -seuraavaksi otin palomuurin käyttöön komennolla sudo ufw enable. Tarkistin tulosteen komennolla sudo ufw status verbose <img width="1544" height="454" alt="image" src="https://github.com/user-attachments/assets/c9d24985-1b75-4e5e-b283-2cdfd8e454b9" />
 
 -tämän jälkeen päivitin kaikki ohjelmat ja boottasin koneen. 
+
 
 d) tehtävässä piti asentaa Webbipalvelin ja valitsin apachen, tämän asensin komennolla: sudo apt install apache2. <img width="2748" height="814" alt="image" src="https://github.com/user-attachments/assets/06cae0f1-58d3-466d-8dae-5444ee8e63a5" /> 
 
