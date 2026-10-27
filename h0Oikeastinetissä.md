@@ -7,7 +7,7 @@ __Niemi 2025: H4 Tehtävät__
 
 -Oma kysymys: Miten palvelimen lokeista voidaan erottaa tavalliset yhteysyritykset mahdollisista tietoturvauhista?
 
-Partanen 2025: Harjoitus 5 – a) Nimi
+Partanen 2025: Harjoitus 5 – a) Nimi#
 
 -Verkkotunnuksen avulla verkkopalveluun pääsee helposti muistettavalla nimellä IP-osoitteen sijasta.
 
