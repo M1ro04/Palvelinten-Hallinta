@@ -77,6 +77,8 @@ __Lähteet:__
 
 Karvinen Tero. 2026. Palvelinten Hallinta. h0 oikeasti netissä Luettavissa: https://terokarvinen.com/palvelinten-hallinta/#h0-oikeasti-netissa Luettu 26.10.2026
 
+Karvinen Tero. 2026. Palvelinten Hallinta. Luettavissa: https://terokarvinen.com/palvelinten-hallinta/ Luettu 25.10.2026
+
 https://github.com/AONCODES/linux-course/blob/main/h4.md
  
 https://partanennn.github.io/linux-servers/practices/fifth-week.html
