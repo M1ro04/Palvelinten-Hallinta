@@ -79,9 +79,9 @@ Karvinen Tero. 2026. Palvelinten Hallinta. h0 oikeasti netissä Luettavissa: htt
 
 Karvinen Tero. 2026. Palvelinten Hallinta. Luettavissa: https://terokarvinen.com/palvelinten-hallinta/ Luettu 25.10.2026
 
-https://github.com/AONCODES/linux-course/blob/main/h4.md
+AONCODES. 2025. Niemi 2025: H4 Tehtävät luettavissa: https://github.com/AONCODES/linux-course/blob/main/h4.md Luettu 26.10,2025
  
-https://partanennn.github.io/linux-servers/practices/fifth-week.html
+partanennn. 2025. Partanen 2025: Harjoitus 5: Nimekäs: a) Nimi luettavissa: https://partanennn.github.io/linux-servers/practices/fifth-week.html Luettu 26.10.2025
 
 
 
