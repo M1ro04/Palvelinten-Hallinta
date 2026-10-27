@@ -73,6 +73,11 @@ tehtävässä piti asentaa Webbipalvelin ja valitsin apachen, tämän asensin ko
 
 -tämän jälkeen avasin taas sivun palvelimella ja tulokseksi tuli: <img width="2904" height="984" alt="image" src="https://github.com/user-attachments/assets/876f0d74-da83-4258-beef-d78b06a92bd2" />
 
+Lähteet: 
+https://terokarvinen.com/palvelinten-hallinta/#h0-oikeasti-netissa
+https://github.com/AONCODES/linux-course/blob/main/h4.md
+https://partanennn.github.io/linux-servers/practices/fifth-week.html
+
 
 
 
