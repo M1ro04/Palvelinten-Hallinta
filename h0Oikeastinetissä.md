@@ -31,7 +31,8 @@ __a)__
 
 __b)__
 
-- Vuokrasin uplcoudin kautta virtuaalisen yksityispalvelimen (VPS) <img width="2936" height="1646" alt="image" src="https://github.com/user-attachments/assets/1d427074-3924-43de-a546-b80028e0e114" />
+- Vuokrasin uplcoudin kautta virtuaalisen yksityispalvelimen (VPS) <img width="2652" height="1494" alt="image" src="https://github.com/user-attachments/assets/85f3deeb-554b-42cd-b561-7b9ce73e0433" />
+
 
 
 
