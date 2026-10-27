@@ -45,8 +45,21 @@ c)
 
 -tämän jälkeen päivitin kaikki ohjelmat ja boottasin koneen. 
 
-d) tehtävässä piti asentaa Webbipalvelin ja valitsin apachen, tämän asensin komennolla: sudo apt install apache2. <img width="2748" height="814" alt="image" src="https://github.com/user-attachments/assets/06cae0f1-58d3-466d-8dae-5444ee8e63a5" /> tämän jälkeen asennus kysyy vahvistusta, joten painoin yes. Seuraavaksi tarkistin apachen tilan ja käynnistin sen komennoilla: sudo systemctl enable --now apache2 ja systemctl status apache2. <img width="2748" height="620" alt="image" src="https://github.com/user-attachments/assets/a762d1c1-91f7-4ccb-a4bc-c33230293fec" /> tuloste näyttää active: active (running), joten tiedän, että se toimii kunnolla. tämän jälkeen testasin verkkopalvelimen toiminnan laittamalla selaimeen http://omanpalvelimenip ja sain apache2 debian default page, joten tiedän että kaikki toimii. <img width="2904" height="1666" alt="image" src="https://github.com/user-attachments/assets/ac8ffe97-1234-47c6-8367-0415be67ad8c" />
-Tämän jälkeen loin oman HTML sivun. avasin apachen oletussivun muokattavaksi komennolla: sudo nano /var/www/html/index.html. poistin vanhan sisällön ja laitoin sinne uuden. tämän jälkeen avasin taas sivun palvelimella ja tulokseksi tuli: <img width="2904" height="984" alt="image" src="https://github.com/user-attachments/assets/876f0d74-da83-4258-beef-d78b06a92bd2" />
+d) tehtävässä piti asentaa Webbipalvelin ja valitsin apachen, tämän asensin komennolla: sudo apt install apache2. <img width="2748" height="814" alt="image" src="https://github.com/user-attachments/assets/06cae0f1-58d3-466d-8dae-5444ee8e63a5" /> 
+
+-tämän jälkeen asennus kysyy vahvistusta, joten painoin yes.
+
+-Seuraavaksi tarkistin apachen tilan ja käynnistin sen komennoilla: sudo systemctl enable --now apache2 ja systemctl status apache2. <img width="2748" height="620" alt="image" src="https://github.com/user-attachments/assets/a762d1c1-91f7-4ccb-a4bc-c33230293fec" /> 
+
+-tuloste näyttää active: active (running), joten tiedän, että se toimii kunnolla. 
+
+-tämän jälkeen testasin verkkopalvelimen toiminnan laittamalla selaimeen http://omanpalvelimenip ja sain apache2 debian default page, joten tiedän että kaikki toimii. <img width="2904" height="1666" alt="image" src="https://github.com/user-attachments/assets/ac8ffe97-1234-47c6-8367-0415be67ad8c" />
+
+-Tämän jälkeen loin oman HTML sivun.
+
+-avasin apachen oletussivun muokattavaksi komennolla: sudo nano /var/www/html/index.html. poistin vanhan sisällön ja laitoin sinne uuden. 
+
+-tämän jälkeen avasin taas sivun palvelimella ja tulokseksi tuli: <img width="2904" height="984" alt="image" src="https://github.com/user-attachments/assets/876f0d74-da83-4258-beef-d78b06a92bd2" />
 
 
 
