@@ -78,7 +78,7 @@ __Lähteet:__
 https://terokarvinen.com/palvelinten-hallinta/#h0-oikeasti-netissa
 
 https://github.com/AONCODES/linux-course/blob/main/h4.md
-
+ 
 https://partanennn.github.io/linux-servers/practices/fifth-week.html
 
 
