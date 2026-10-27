@@ -55,7 +55,9 @@ __c)__
 
 
 
-__d)__ tehtävässä piti asentaa Webbipalvelin ja valitsin apachen, tämän asensin komennolla: sudo apt install apache2. <img width="2748" height="814" alt="image" src="https://github.com/user-attachments/assets/06cae0f1-58d3-466d-8dae-5444ee8e63a5" /> 
+__d)__
+
+tehtävässä piti asentaa Webbipalvelin ja valitsin apachen, tämän asensin komennolla: sudo apt install apache2. <img width="2748" height="814" alt="image" src="https://github.com/user-attachments/assets/06cae0f1-58d3-466d-8dae-5444ee8e63a5" /> 
 
 -tämän jälkeen asennus kysyy vahvistusta, joten painoin yes.
 
