@@ -59,7 +59,7 @@ __d)__
 
 - Tehtävässä piti asentaa Webbipalvelin ja valitsin apachen, tämän asensin komennolla: sudo apt install apache2. <img width="2748" height="814" alt="image" src="https://github.com/user-attachments/assets/06cae0f1-58d3-466d-8dae-5444ee8e63a5" /> 
 
--Tämän jälkeen asennus kysyy vahvistusta, joten painoin yes.
+- Tämän jälkeen asennus kysyy vahvistusta, joten painoin yes.
 
 - Seuraavaksi tarkistin apachen tilan ja käynnistin sen komennoilla: sudo systemctl enable --now apache2 ja systemctl status apache2. <img width="2748" height="620" alt="image" src="https://github.com/user-attachments/assets/a762d1c1-91f7-4ccb-a4bc-c33230293fec" /> 
 
