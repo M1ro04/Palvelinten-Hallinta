@@ -22,7 +22,7 @@ __Partanen 2025: Harjoitus 5 – a) Nimi__
 
 __a)__
 
-- Aloitin tehtävän ensimmäisellä tunnilla tekemällä käyttäjän upcloudiin ja vuokraamalla sieltä palvelimen.
+- Aloitin tehtävän ensimmäisellä tunnilla tekemällä käyttäjän upcloudiin ja vuokraamalla sieltä palvelimen. 
 
 - Palvelimen kautta asensin koneelleni Debian 13. ja käynnistin sen macOS terminaalissa. 
 <img width="854" height="132" alt="Screenshot 2026-10-26 at 17 55 00" src="https://github.com/user-attachments/assets/9786d5c4-1351-4c7c-9f3e-a95c391210a7" />
